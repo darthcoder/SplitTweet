@@ -1,0 +1,7 @@
+here is another long string that is meant to be consumed by the twitter api
+and spat out on the site. i am sort of okay with this type of tweets, because
+this allows me to focus on writing the tweet as a blog post and then tweets it
+with almost zero intervention. this way i can write however much i want to write
+and it will still work! are there any softwares that allow you to do this? maybe i
+should wrap this up in electron and make a total app out of it, but that would 
+require html, css and others that i don't like at all. lets see if this works.
